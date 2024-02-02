@@ -10,5 +10,5 @@ COPY . .
 
 ENV PORT=3000
 
-CMD ["npm", "start"]
+CMD ["npm", "run"]
 EXPOSE 3000
